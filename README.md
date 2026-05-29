@@ -1,5 +1,3 @@
-![Alt](https://repobeats.axiom.co/api/embed/a92051c620dc915321307182c530d60aa5e3711a.svg "Repobeats analytics image")
-
 # OfferForge
 
 > 分布式面试刷题平台 · 助你斩获 Offer
